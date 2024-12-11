@@ -1,0 +1,35 @@
+{
+  "global": {
+    "serverName": ETS Dedicated Hosting FiveM Polska,
+    "language": "pl",
+    "menuEnabled": true,
+    "menuAlignRight": false,
+    "menuPageKey": "Tab",
+    "hideDefaultAnnouncement": false,
+    "hideDefaultDirectMessage": false,
+    "hideDefaultWarning": false,
+    "hideDefaultScheduledRestartWarning": false,
+    "hideAdminInPunishments": true,
+    "hideAdminInMessages": false
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "resourceStartingTolerance": 240
+  },
+  "webServer": {
+    "disableNuiSourceCheck": false
+  },
+  "discordBot": {
+    "enabled": false,
+    "token": null,
+    "announceChannel": null
+  },
+  "fxRunner": {
+    "serverDataPath": "/home/container/Zasoby/",
+    "cfgPath": "/home/container/server.cfg",
+    "onesync": "on",
+    "autostart": true
+  },
+  "banTemplates": []
+}
