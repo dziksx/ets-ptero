@@ -26,7 +26,7 @@
     "announceChannel": null
   },
   "fxRunner": {
-    "serverDataPath": "/home/container/resources/",
+    "serverDataPath": "/home/container/",
     "cfgPath": "/home/container/server.cfg",
     "onesync": "on",
     "autostart": true
